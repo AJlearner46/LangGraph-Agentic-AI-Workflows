@@ -2,11 +2,11 @@
 
 ## 1. Sequential LangGraph Workflow
 
-I. BMI calculation
-II. Simple LLM invoke 
-III. Blog Generation 
+- BMI calculation
+- Simple LLM invoke 
+- Blog Generation 
 
 ## 2. Parallel LangGraph Workflow
 
-I. Batsman Stats Calculation From Runs & Balls
-II. Essay Evaluation on different aspects & score it
+- Batsman Stats Calculation From Runs & Balls
+- Essay Evaluation on different aspects & score it
