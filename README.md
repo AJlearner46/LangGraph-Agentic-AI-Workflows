@@ -9,17 +9,17 @@
 ## 2. Parallel LangGraph Workflow
 
 - Batsman Stats Calculation From Runs & Balls
-- Essay Evaluation on different aspects & score it
+- Essay Evaluation with Aspect-wise Scoring
 
 ## 3. Conditional LangGrapg Workflow
 
-- Quadratic Equation Roots Solution
-- Customer Review Reply using sentiment, issue, tone, and urgency
+- Quadratic Equation Roots Solver
+- Customer Review Reply Generator (Based on sentiment, tone, urgency, and issue detection)
 
 ## 4. Iterative LangGraph Workflow
 
-- X Post Generator
+- X Post Generator with Looping Feedback
 
 ## 5. ChatBot Workflow
 
-- Simple chatbot with memory
+- Simple Conversational Chatbot with Memory
