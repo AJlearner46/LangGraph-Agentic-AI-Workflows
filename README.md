@@ -19,3 +19,7 @@
 ## 4. Iterative LangGraph Workflow
 
 - X Post Generator
+
+## 5. ChatBot Workflow
+
+- Simple chatbot with memory
